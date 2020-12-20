@@ -1,0 +1,14 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "'node Dependencies'",
+  "main": "Event_Handlers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "'Sidhu'",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.3.0"
+  }
+}
